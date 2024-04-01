@@ -1,3 +1,5 @@
+Fork of orginal plugin to add label-sheet layouts for full sheets of QR codes for mutiple inventory items (up to entire inventory), downloaded as a PDF.
+
 # Netbox QR Code Plugin
 
 [Netbox](https://github.com/netbox-community/netbox) plugin for generate QR codes for objects: Rack, Device, Cable.
